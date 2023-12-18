@@ -38,6 +38,7 @@ ExtraTreesClassifier requires less computational resources and reduced hyperpara
 Accuracy Obtained(in %) : 98.74175234003376
 
 Classification Report : 
+
 ![ex_cr](https://github.com/ShrutiGoyal9990/Road_Accident_Severity_Prediction_System/assets/121054868/505792db-c597-468d-9d5e-88d768bb03ff)
 ![ex_cm](https://github.com/ShrutiGoyal9990/Road_Accident_Severity_Prediction_System/assets/121054868/3fd7c95a-b46e-4413-9e19-be251668f18e)
 
