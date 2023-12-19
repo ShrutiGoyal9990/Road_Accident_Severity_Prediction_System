@@ -68,3 +68,10 @@ Accuracy Obtained(in %) : 94.29185207917754
 
 ![dt_cr](https://github.com/ShrutiGoyal9990/Road_Accident_Severity_Prediction_System/assets/121054868/e658a292-14ea-4808-8dfb-a94174492a25)
 ![dt_cm](https://github.com/ShrutiGoyal9990/Road_Accident_Severity_Prediction_System/assets/121054868/ebe77728-b74d-43d2-8ad9-00d8ec224537)
+
+# 4. Comparison of Algorithms used
+The following figure shows the accuracies of all the models used.
+![road_graph](https://github.com/ShrutiGoyal9990/Road_Accident_Severity_Prediction_System/assets/121054868/d7b10f9d-dfff-48b8-949b-bce3fed5e876)
+
+# 5. Conclusion
+This project effectively forecasts road accident severity, empowering authorities to enact safety protocols. Employing five models—ExtraTreesClassifier, Logistic Regression, XGBoost, Random Forest Classifier, and Decision Tree Classifier—the ExtraTreesClassifier emerges as the optimal model, boasting a remarkable accuracy of 98.74%. This standout accuracy establishes it as the most fitting model, consolidating its role in accurately predicting accident severity. Consequently, this predictive system equips authorities with a reliable tool for proactive safety measures, facilitating prompt interventions and significantly enhancing overall road safety measures.
